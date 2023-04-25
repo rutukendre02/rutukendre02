@@ -1,5 +1,5 @@
 ### Hi there 👋
-![logo](https://github.com/rutukendre02/RutujaKendre02/blob/main/971.jpg)
+
 <h1 align="center">Hi 👋, I'm Rutuja Kendre</h1>
 <h3 align="center">A passionate Data scientist and machine learner from india</h3>
 <img align="right"alt="coding"width="400"src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif>
